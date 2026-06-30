@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cookieaudit"
+version = "1.0.0"
+description = "Self-hosted website cookie and privacy scanner for GDPR/CNIL checks"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+cookieaudit = "cookieaudit.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["cookieaudit*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
