@@ -1,5 +1,7 @@
 # CookieAudit
 
+**Langues :** [English](./README.md) · [Deutsch](./README.de.md) · Français
+
 Scanner **cookies et trackers** self-hosted pour contrôles RGPD/CNIL rapides.
 
 Avant mise en prod : quels cookies à la première visite ? Google Analytics avant consentement ? Mention cookies dans la page ?

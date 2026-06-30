@@ -1,5 +1,7 @@
 # CookieAudit
 
+**Languages:** English · [Deutsch](./README.de.md) · [Français](./README.fr.md)
+
 Self-hosted **website cookie and tracker scanner** for quick GDPR / CNIL sanity checks.
 
 Before you launch a site or sign a DPA, you want to know: what cookies drop on first visit? Is Google Analytics loading before consent? Does the page mention cookies at all?
@@ -71,6 +73,7 @@ pytest
 
 ## Other languages
 
+- **English** — this file (`README.md`)
 - [Deutsch](./README.de.md)
 - [Français](./README.fr.md)
 

@@ -1,5 +1,7 @@
 # CookieAudit
 
+**Sprachen:** [English](./README.md) · Deutsch · [Français](./README.fr.md)
+
 Self-hosted **Cookie- und Tracker-Scanner** für schnelle DSGVO/CNIL-Checks.
 
 Vor Launch oder DPA: Welche Cookies fallen beim ersten Besuch? Lädt Google Analytics vor Consent? Steht überhaupt was zu Cookies auf der Seite?
